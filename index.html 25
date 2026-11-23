@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Мій пес Бобік</title>
+    <link rel="stylesheet" href="25.css">
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">Головна</a>
+        <a href="contacts.html">Контакти</a>
+    </nav>
+
+    <h1>Привіт! Це мій пес Бобік</h1>
+    <p>Бобіку 2 роки. Він дуже енергійний, любить довгі прогулянки в парку та завжди радіє гостям.</p>
+
+    <img src="https://picsum.photos/id/237/600/350" alt="Чорне цуценя Бобік">
+
+    <h2>Що Бобік любить найбільше:</h2>
+    <ul>
+        <li>Бігати за тенісним м'ячиком</li>
+        <li>Спати на м'якому пледі</li>
+        <li>Отримувати смаколики за команду «Дай лапу»</li>
+    </ul>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Контакти</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">Головна</a>
+        <a href="contacts.html">Контакти</a>
+    </nav>
+
+    <h1>Контакти господаря</h1>
+    <p>Хочете погуляти разом у парку або познайомитися з Бобіком? Зв'яжіться зі мною:</p>
+
+    <ul>
+        <li><strong>Телефон:</strong> +38 </li>
+        <li><strong>Telegram:</strong> </li>
+        <li><strong>Місце прогулянок:</strong> Центральний парк, щодня о 17:00</li>
+    </ul>
+
+    <img src="https://picsum.photos/id/1025/600/350" alt="Пес у теплому пледі">
+
+</body>
+</html>
